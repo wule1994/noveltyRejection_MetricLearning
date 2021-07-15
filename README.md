@@ -12,20 +12,20 @@ Most traditional myoelectric pattern recognition systems can only identify limit
 
 The repository is released under the MIT License.
 
-## Installing dependencies
+## Installing dependencies  
 The code is developed based on the Keras framwork.  
 **Keras (version: 2.2.4)**: we use tensorflow backend. The Keras installation and introduction are available at [`https://keras.io/`](https://keras.io/).  
 **tensorflow (version: 1.13.1)**: tensorflow installation instructions are available at [`https://www.tensorflow.org/`](https://www.tensorflow.org/).
 
-## Demonstration with an exemplary dataset
+## Demonstration with an exemplary dataset  
 This is a demo when running our codes on an exemplary dataset, which can also be publicly downloaded via the same link as the source codes. Here are step-by-step instructions from downloading both the source codes and the data to result display: 
 
-###Preparation
+### Preparation  
 Download the data folder [(link)](https://drive.google.com/file/d/1qkge1sTHsDvGeVF7hTrZAFDyyumjTWKZ/view?usp=sharing), this folder contains HD-sEMG data from target and novel motions.  
 Download the model folder [(link)](https://drive.google.com/file/d/1NMcXZnf9Upb1wKMSz0_9lZmChSo6059l/view?usp=sharing), this folder includes some pretrained models.   
 For more details, you can referring to the corresponding code files or leave a message in the issue.
 
-###Result display 
+### Result display 
 To obtain the results, you need to run the 'noveltyRejection_metricLearning.ipynb' file, which contains all codes and descriptions. The file also prints ROC curve, as well as classification error rate of each motions.
 
 ![](./images/result1.png "ROC curves") 
