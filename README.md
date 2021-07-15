@@ -2,7 +2,7 @@
 
 By [Le Wu](https://github.com/wule1994), Xu Zhang, Xuan Zhang, [Xiang Chen](https://scholar.google.com/citations?hl=en&user=JURnq4QAAAAJ), [Xun Chen](http://staff.ustc.edu.cn/~xunchen/index.htm)
 
-This document contains tutorial for running the codes associated with the method reported in the paper entitled "Metric learning for novel motion rejection in high-density myoelectric pattern recognition", whcih has been accepted by Knowledge-Based Systems. You can refer to "https://www.sciencedirect.com/science/article/abs/pii/S0950705121004287" for the published paper.
+This document contains tutorial for running the codes associated with the method reported in the paper entitled "Metric learning for novel motion rejection in high-density myoelectric pattern recognition", which has been accepted by Knowledge-Based Systems. You can refer to "https://www.sciencedirect.com/science/article/abs/pii/S0950705121004287" for the published paper.
 
 ## Abstrct
 ![](./images/flowchart.png "flowchart of the proposed method")  
